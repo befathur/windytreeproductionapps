@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621073889212",
+    "project_id": "windytreeproduction-15bcb",
+    "storage_bucket": "windytreeproduction-15bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621073889212:android:297f7645fd3c889acc9db9",
+        "android_client_info": {
+          "package_name": "umn.ac.id.windytreeproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621073889212-71o69e74va147bl3hme5g33h2lg5a43o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7_wBnJlssBb-3MoDKiMLPHdivv4l2sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621073889212-71o69e74va147bl3hme5g33h2lg5a43o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

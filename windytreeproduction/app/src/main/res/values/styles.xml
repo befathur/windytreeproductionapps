@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Main" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/mainbg</item>
+        <item name="colorPrimaryDark">@color/darkbg</item>
+        <item name="color">@color/bars</item>
+    </style>
+
+    <style name="BootTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/mainbg</item>
+        <item name="colorPrimaryDark">@color/mainbg</item>
+        <item name="colorAccent">@color/mainbg</item>
+        <item name="android:windowBackground">@drawable/splashboot_background</item>
+    </style>
+
+</resources>
